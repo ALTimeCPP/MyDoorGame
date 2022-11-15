@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch MyDoorGame (Debug)",
+			"request": "launch",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "MyDoorGame Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGame (DebugGame)",
+			"request": "launch",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "MyDoorGame Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGame (Development)",
+			"request": "launch",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "MyDoorGame Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGame (Test)",
+			"request": "launch",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "MyDoorGame Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGame (Shipping)",
+			"request": "launch",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "MyDoorGame Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGameEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "MyDoorGameEditor Win64 Debug Build",
+			"args": [
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGameEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "MyDoorGameEditor Win64 DebugGame Build",
+			"args": [
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch MyDoorGameEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "MyDoorGameEditor Win64 Development Build",
+			"args": [
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+			],
+			"cwd": "D:\\Unreal Engine\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Unreal Engine\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "D:\\Unreal Engine\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Unreal Engine\\UE_5.0"
+		}
+	]
+}
