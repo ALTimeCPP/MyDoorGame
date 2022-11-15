@@ -9,7 +9,7 @@ void AKeyDoor::OnInteract()
     
     if(Character->KeyOne)
     {
-
+        // Remember Super inhrit all the function from the parent classes
         Super:: OnInteract(); 
     
     }

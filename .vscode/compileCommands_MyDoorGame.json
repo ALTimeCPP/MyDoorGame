@@ -1,157 +1,157 @@
 [
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\ACGPickableComponent.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\ACGPickableComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\ACGPickableComponent.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\ACGPickableComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGDoor.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGDoor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGDoor.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGDoor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponent.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponent.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponents.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponents.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponents.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\CGPickableComponents.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\DoorActor.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\DoorActor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\DoorActor.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\DoorActor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\DoorInteractionComponent.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\DoorInteractionComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\DoorInteractionComponent.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\DoorInteractionComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\FloorSwitch.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\FloorSwitch.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\FloorSwitch.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\FloorSwitch.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\Item.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\Item.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\Item.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\Item.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\KeyDoor.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\KeyDoor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\KeyDoor.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\KeyDoor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\KeyDoorTwo.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\KeyDoorTwo.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\KeyDoorTwo.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\KeyDoorTwo.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoor.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoor.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoor.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoor.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.Build.cs",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGame.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameCharacter.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameCharacter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameCharacter.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameCharacter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameGameMode.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameGameMode.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyDoorGameGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyItem2.cpp",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyItem2.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
-		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Source\\MyDoorGame\\MyItem2.h",
-		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\MyItem2.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	}
 ]

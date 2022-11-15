@@ -1,5 +1,5 @@
 /FI "D:\Unreal Engine\UE_5.0\Engine\Plugins\Runtime\ResonanceAudio\Intermediate\Build\Win64\UnrealEditor\Development\ResonanceAudio\Definitions.ResonanceAudio.h" 
-/FI "E:\CG SPECTRUM\Refrence\Door\MyDoorGame\Intermediate\Build\Win64\MyDoorGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h" 
+/FI "E:\CG SPECTRUM\Refrence\Door\MyDoorGame\MyDoorGame\Intermediate\Build\Win64\MyDoorGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.NoShadow.h" 
 /I "D:\Unreal Engine\UE_5.0\Engine\Source" 
 /I "D:\Unreal Engine\UE_5.0\Engine\Plugins\Runtime\ResonanceAudio\Source\ResonanceAudio\Private" 
 /I "D:\Unreal Engine\UE_5.0\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Core" 

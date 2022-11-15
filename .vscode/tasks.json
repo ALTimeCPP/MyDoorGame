@@ -9,7 +9,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"MyDoorGame",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"MyDoorGame",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"MyDoorGame",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Test",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Test",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Test",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Shipping",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Shipping",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,7 +262,7 @@
 				"MyDoorGame",
 				"Win64",
 				"Shipping",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -279,7 +279,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -296,7 +296,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -316,7 +316,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Debug",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -333,7 +333,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -350,7 +350,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -370,7 +370,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"DebugGame",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -387,7 +387,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -404,7 +404,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -424,7 +424,7 @@
 				"MyDoorGameEditor",
 				"Win64",
 				"Development",
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",

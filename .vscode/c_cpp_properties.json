@@ -3,14 +3,14 @@
         {
             "name": "MyDoorGameEditor Editor Win64 Development (MyDoorGame)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame.json",
+            "compileCommands": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_MyDoorGame.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }

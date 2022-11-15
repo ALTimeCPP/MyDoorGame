@@ -40,9 +40,6 @@ void AItem::Tick(float DeltaTime)
 		FRotator Rotation = GetActorRotation();
 		Rotation.Yaw += DeltaTime * RotationRate;
 		SetActorRotation(Rotation); 
-
-
-
 	}
 
 	

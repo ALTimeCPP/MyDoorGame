@@ -4,7 +4,7 @@
 		{
 			"name": "Launch MyDoorGame (Debug)",
 			"request": "launch",
-			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "MyDoorGame Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch MyDoorGame (DebugGame)",
 			"request": "launch",
-			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "MyDoorGame Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch MyDoorGame (Development)",
 			"request": "launch",
-			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "MyDoorGame Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch MyDoorGame (Test)",
 			"request": "launch",
-			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "MyDoorGame Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch MyDoorGame (Shipping)",
 			"request": "launch",
-			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "MyDoorGame Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "MyDoorGameEditor Win64 Debug Build",
 			"args": [
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject"
 			],
 			"cwd": "D:\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "MyDoorGameEditor Win64 DebugGame Build",
 			"args": [
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject"
 			],
 			"cwd": "D:\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "D:\\Unreal Engine\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "MyDoorGameEditor Win64 Development Build",
 			"args": [
-				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject"
+				"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject"
 			],
 			"cwd": "D:\\Unreal Engine\\UE_5.0",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame.uproject",
+				"-project=E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\MyDoorGame.uproject",
 				"-game",
 				"-engine"
 			],
