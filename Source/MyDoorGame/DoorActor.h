@@ -6,7 +6,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "DoorActor.generated.h"
-
+// classes
 class AMyDoorGameCharacter;
  
 UCLASS()
