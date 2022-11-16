@@ -5,13 +5,13 @@
 
 #include "MyDoorGameCharacter.h"
 
-void AKeyDoorTwo::OnInteract()
+void AKeyDoorTwo::OnInteract(AMyDoorGameCharacter* User)
 {
     
-    if(Character->KeyTwo)
+    if(User != nullptr && User->KeyTwo)
     {
         // Super inhrit all the function from the parent classes
-        Super:: OnInteract(); 
+        Super:: OnInteract(User);
     
     }
 

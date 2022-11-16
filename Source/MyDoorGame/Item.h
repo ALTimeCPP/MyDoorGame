@@ -6,6 +6,9 @@
 #include "GameFramework/Actor.h"
 #include "Item.generated.h"
 
+class USphereComponent;
+class UStaticMeshComponent;
+
 UCLASS()
 class MYDOORGAME_API AItem : public AActor
 {
@@ -16,14 +19,17 @@ public:
 	AItem();
 	UPROPERTY(VisibleAnywhere, Category = "Item |Collision")
 	// this will be the spher etrigger the pick up Function when charater over lap with it
-	class USphereComponent* CollisionVolume;
+	TObjectPtr<USphereComponent> CollisionVolume;
+
 	UPROPERTY(VisibleAnywhere, Category = "Item |Mesh")
-	class UStaticMeshComponent* Mesh; 
+	TObjectPtr<UStaticMeshComponent> Mesh;
+	
 	UPROPERTY(EditAnywhere, Category = "Item |ItemProperties")
-	bool bRotate;
+	bool bRotate = false;
+
 	UPROPERTY(EditAnywhere, Category = "Item |ItemProperties")
 	// to make item Rotate in the Air
-	float RotationRate; 
+	float RotationRate = 0.f; 
 
 protected:
 	// Called when the game starts or when spawned

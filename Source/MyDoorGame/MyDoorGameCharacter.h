@@ -4,7 +4,11 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "MyDoorGameCharacter.generated.h"
+
 class AItem; 
+class UCameraComponent;
+class USpringArmComponent;
+
 UCLASS(config=Game)
 class AMyDoorGameCharacter : public ACharacter
 {
@@ -12,11 +16,12 @@ class AMyDoorGameCharacter : public ACharacter
 
 	/** Camera boom positioning the camera behind the character */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class USpringArmComponent* CameraBoom;
+	TObjectPtr<USpringArmComponent> CameraBoom;
 
 	/** Follow camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
-	class UCameraComponent* FollowCamera;
+	TObjectPtr<UCameraComponent> FollowCamera;
+
 public:
 	AMyDoorGameCharacter();
 
