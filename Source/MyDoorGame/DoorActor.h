@@ -7,6 +7,7 @@
 #include "GameFramework/Actor.h"
 #include "DoorActor.generated.h"
 
+class AMyDoorGameCharacter;
  
 UCLASS()
 class MYDOORGAME_API ADoorActor : public AActor
@@ -26,19 +27,23 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 	
-	virtual void OnInteract(); 
-	class AMyDoorGameCharacter* Character; 
+	virtual void OnInteract(AMyDoorGameCharacter* User);
+
+	//UPROPERTY(Transient)
+	//TObjectPtr<AMyDoorGameCharacter> Character;
+
 private:
 	UPROPERTY(EditAnywhere, Category = "Mesh")
-	class UStaticMeshComponent* DoorFrame;
+	TObjectPtr<UStaticMeshComponent> DoorFrame;
+
 	UPROPERTY(EditAnywhere, Category = "Mesh")
-	UStaticMeshComponent* Door; 
+	TObjectPtr<UStaticMeshComponent> Door;
 	
 protected:
 	
 	FTimeline Timeline;
 	UPROPERTY(EditAnywhere)
-	UCurveFloat* CurveFloat;
+	TObjectPtr<UCurveFloat> CurveFloat;
 
 	bool bIsDoorClosed = true; 
 	UPROPERTY(EditAnywhere)
@@ -47,7 +52,7 @@ protected:
 	UFUNCTION()
 	void OpenDoor(float Value); // Bind Function
 
-	bool bDoorOnSameSide;
-	void SetDoorOnSameSide();
+	bool bDoorOnSameSide = false;
+	bool IsDoorOnSameSide(AActor* User) const;
 
 };

@@ -154,8 +154,10 @@ void AMyDoorGameCharacter::Interact()
 	ADoorActor* Door = Cast<ADoorActor>(HitResult.GetActor());
 	if(Door)
 	{
-		Door->Character = this; //Which is my chacter class 
-		Door->OnInteract(); 
+		// You should just pass the user along to the OnInteract function, there's no need to cache this 
+		// as a member variable of the Door and have it holding a reference to it
+		// Door->Character = this; //Which is my chacter class 
+		Door->OnInteract(this);
 
 	}
 	

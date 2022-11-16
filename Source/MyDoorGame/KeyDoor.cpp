@@ -4,13 +4,13 @@
 #include "KeyDoor.h"
 #include "MyDoorGameCharacter.h"
 
-void AKeyDoor::OnInteract()
+void AKeyDoor::OnInteract(AMyDoorGameCharacter* User)
 {
-    
-    if(Character->KeyOne)
+    // How will you rethink this so you don't have to make n class of door class for n keys?
+    if(User != nullptr && User->KeyOne)
     {
         // Remember Super inhrit all the function from the parent classes
-        Super:: OnInteract(); 
+        Super:: OnInteract(User);
     
     }
 

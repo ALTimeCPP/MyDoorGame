@@ -45,13 +45,13 @@ void ADoorActor::Tick(float DeltaTime)
 	Timeline.TickTimeline(DeltaTime); 
 
 }
-void ADoorActor:: OnInteract()
+void ADoorActor:: OnInteract(AMyDoorGameCharacter* User)
 {
 	UE_LOG(LogTemp, Warning, TEXT("Press E"));
 
 	if(bIsDoorClosed)
 	{
-		SetDoorOnSameSide();
+		bDoorOnSameSide = IsDoorOnSameSide(User);
 		Timeline.Play(); // Open the Door
 
 	}
@@ -72,15 +72,15 @@ void ADoorActor::OpenDoor(float Value)
 
 
 }
-void ADoorActor::SetDoorOnSameSide()
+
+bool ADoorActor::IsDoorOnSameSide(AActor* User) const
 {
-
-	if(Character)
+	if(User)
 	{
-		FVector CharacterFV = Character->GetActorForwardVector(); 
-		FVector DoorFV =GetActorForwardVector(); 
-		bDoorOnSameSide = (FVector::DotProduct(CharacterFV,DoorFV)>= 0);
+		FVector CharacterFV = User->GetActorForwardVector();
+		FVector DoorFV = GetActorForwardVector(); 
+		return (FVector::DotProduct(CharacterFV,DoorFV)>= 0);
 	}
-
+	return false;
 }
 

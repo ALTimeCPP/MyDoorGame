@@ -7,6 +7,8 @@
 #include "GameFramework/Actor.h"
 #include "FloorSwitch.generated.h"
 
+class UBoxComponent;
+class UStaticMeshComponent;
 
 UCLASS()
 class MYDOORGAME_API AFloorSwitch : public AActor
@@ -18,14 +20,14 @@ public:
 	AFloorSwitch();
 	/** bOX tRIGGER oVERLAP eVENT*/
 	UPROPERTY(VisibleAnywhere,BlueprintReadWrite, Category = "Floor Switch")
-	class UBoxComponent* TriggerBox; 
+	TObjectPtr<UBoxComponent> TriggerBox;
 	/* Block for Character to step on */
 	UPROPERTY(VisibleAnywhere,BlueprintReadWrite, Category = "Floor Switch")
-	class UStaticMeshComponent* FloorSwitch;
+	TObjectPtr<UStaticMeshComponent> FloorSwitch;
 
 	/*Door raise when when the floor switch is stepped on */
 	UPROPERTY(VisibleAnywhere,BlueprintReadWrite, Category = "Floor Switch")
-	UStaticMeshComponent* Door; 
+	TObjectPtr<UStaticMeshComponent> Door; 
 
 protected:
 	// Called when the game starts or when spawned
