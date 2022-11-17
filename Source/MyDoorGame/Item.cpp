@@ -50,7 +50,7 @@ void AItem::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent,
 	 int32 otherBodyIndex, bool bFromSweep, const FHitResult & SweepResult)
  {
 
-	UE_LOG(LogTemp, Warning, TEXT("On Key 1"));
+	UE_LOG(LogTemp, Warning, TEXT("On Key "));
 
 	AMyDoorGameCharacter* User = Cast<AMyDoorGameCharacter>(OtherActor); 
 
