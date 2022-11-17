@@ -20,10 +20,12 @@ AFloorSwitch::AFloorSwitch()
 	//RootComponent = TriggerBox; 
 	//TriggerBox->SetRootComponent(RootComponent);
 	SetRootComponent(TriggerBox);
+	// remember you can set it IN BP. Enum ECollisionEnabled 
 	TriggerBox->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
-
+	// Setting the type of collision, we choose enum ECC_WorldStatic to set collision objecttype as it can see in the BP Editor of this c++
 	TriggerBox->SetCollisionObjectType(ECollisionChannel::ECC_WorldStatic); 
-
+	// Set collision response to all channels allowing us set all collision respone to a spicific colision response.
+	// enum 
 	TriggerBox-> SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
 
 	TriggerBox-> SetCollisionResponseToChannel(ECollisionChannel::ECC_Pawn,ECollisionResponse::ECR_Overlap);

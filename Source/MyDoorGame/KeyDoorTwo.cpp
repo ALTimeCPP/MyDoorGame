@@ -8,7 +8,7 @@
 void AKeyDoorTwo::OnInteract(AMyDoorGameCharacter* User)
 {
     
-    if(User != nullptr && User->KeyTwo)
+    if(User != nullptr && User->Keys.Contains(KeyNum))
     {
         // Super inhrit all the function from the parent classes
         Super:: OnInteract(User);

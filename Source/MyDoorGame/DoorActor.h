@@ -53,6 +53,10 @@ protected:
 	void OpenDoor(float Value); // Bind Function
 
 	bool bDoorOnSameSide = false;
+	// User For the character or other user
 	bool IsDoorOnSameSide(AActor* User) const;
+
+	UPROPERTY(EditAnywhere, Category = "Item |ItemProperties")
+	int KeyNum ;
 
 };
