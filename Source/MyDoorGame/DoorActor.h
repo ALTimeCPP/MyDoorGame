@@ -6,7 +6,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "DoorActor.generated.h"
-
+// classes
 class AMyDoorGameCharacter;
  
 UCLASS()
@@ -53,6 +53,10 @@ protected:
 	void OpenDoor(float Value); // Bind Function
 
 	bool bDoorOnSameSide = false;
+	// User For the character or other user
 	bool IsDoorOnSameSide(AActor* User) const;
+
+	UPROPERTY(EditAnywhere, Category = "Item |ItemProperties")
+	int KeyNum ;
 
 };

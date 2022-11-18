@@ -9,13 +9,13 @@ void AMyItem2::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent,
 	 int32 otherBodyIndex, bool bFromSweep, const FHitResult & SweepResult)
  {
 
-	UE_LOG(LogTemp, Warning, TEXT("On OverlapBegin"));
+	UE_LOG(LogTemp, Warning, TEXT("On Key 2"));
 
 	AMyDoorGameCharacter* Character = Cast<AMyDoorGameCharacter>(OtherActor); 
 
 	if(Character)
 	{
- 		Character -> KeyTwo = true;
+ 		Character -> Keys.Add(KeyNum);
 		Destroy();
 	}
 	//Destroy();

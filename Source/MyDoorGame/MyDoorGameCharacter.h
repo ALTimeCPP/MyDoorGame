@@ -71,7 +71,21 @@ public:
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
 
-	bool KeyOne = false;
-	bool KeyTwo= false; 
+	//int KeyOne ;
+	//int KeyTwo; 
+	//int KeyMask = KeyOne | KeyTwo ; 
+	// Using arrays
+	
+	TArray<int> Keys; 
 };
+
+//enum
+//{
+	//KeyOne = 0x01,
+	//KeyTwo = 0x2, Leave it for another project
+	//KeyThree = 0x4
+
+
+
+//};
 

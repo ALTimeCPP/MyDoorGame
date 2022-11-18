@@ -8,6 +8,7 @@
 
 class USphereComponent;
 class UStaticMeshComponent;
+class AMyDoorGameCharacter; 
 
 UCLASS()
 class MYDOORGAME_API AItem : public AActor
@@ -30,6 +31,10 @@ public:
 	UPROPERTY(EditAnywhere, Category = "Item |ItemProperties")
 	// to make item Rotate in the Air
 	float RotationRate = 0.f; 
+
+	UPROPERTY(EditAnywhere, Category = "Keys")
+	int KeyNum = 1;
+
 
 protected:
 	// Called when the game starts or when spawned

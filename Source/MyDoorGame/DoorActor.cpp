@@ -49,17 +49,22 @@ void ADoorActor:: OnInteract(AMyDoorGameCharacter* User)
 {
 	UE_LOG(LogTemp, Warning, TEXT("Press E"));
 
-	if(bIsDoorClosed)
-	{
-		bDoorOnSameSide = IsDoorOnSameSide(User);
-		Timeline.Play(); // Open the Door
+		if(KeyNum !=0 &&  (User != nullptr && !User->Keys.Contains(KeyNum)))
+   		 {
+		return; 
+		}
+		if(bIsDoorClosed)
+		{
+			bDoorOnSameSide = IsDoorOnSameSide(User);
+			Timeline.Play(); // Open the Door
 
-	}
-	else{
-		Timeline.Reverse(); // Close the door 
+		}
+		else{
+			Timeline.Reverse(); // Close the door 
 
-	}
-	bIsDoorClosed = !bIsDoorClosed; // Flip The Boolean 
+		}
+		bIsDoorClosed = !bIsDoorClosed; // Flip The Boolean 
+	
 
 
 }
