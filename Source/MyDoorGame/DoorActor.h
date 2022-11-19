@@ -26,8 +26,12 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	
+
+	UFUNCTION(BlueprintCallable)
 	virtual void OnInteract(AMyDoorGameCharacter* User);
+
+	UFUNCTION(BlueprintCallable)
+	void OpenDoor(float Value); // Bind Function
 
 	//UPROPERTY(Transient)
 	//TObjectPtr<AMyDoorGameCharacter> Character;
@@ -49,8 +53,7 @@ protected:
 	UPROPERTY(EditAnywhere)
 	float DoorRotateAngle = 90.f; 
 
-	UFUNCTION()
-	void OpenDoor(float Value); // Bind Function
+	
 
 	bool bDoorOnSameSide = false;
 	// User For the character or other user
