@@ -15,5 +15,6 @@ class MYDOORGAME_API AKeyDoor : public ADoorActor
 	GENERATED_BODY()
 
 	virtual void OnInteract(AMyDoorGameCharacter* User) override;
+	//void OnInteract(AMyDoorGameCharacter* User);
 	
 };

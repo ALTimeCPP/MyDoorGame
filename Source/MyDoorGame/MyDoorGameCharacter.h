@@ -60,12 +60,18 @@ protected:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	// End of APawn interface
 private:
+	
+	// UFUNCTION(BlueprintImplementableEvent) Cant be BP Imppleamentaion 
+	UFUNCTION()
 	void Interact();
 	UPROPERTY(EditAnywhere)
 	float InteractLineTraceLength = 300.f; 
 
 
 public:
+	
+	
+
 	/** Returns CameraBoom subobject **/
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/

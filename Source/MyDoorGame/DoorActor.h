@@ -26,11 +26,14 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
-	UFUNCTION(BlueprintCallable)
+    
+	//UFUNCTION(BlueprintImplementableEvent)
+	UFUNCTION()
 	virtual void OnInteract(AMyDoorGameCharacter* User);
+	//void OnInteract(AMyDoorGameCharacter* User);
 
-	UFUNCTION(BlueprintCallable)
+	//UFUNCTION(BlueprintNativeEvent)
+	UFUNCTION()
 	void OpenDoor(float Value); // Bind Function
 
 	//UPROPERTY(Transient)
