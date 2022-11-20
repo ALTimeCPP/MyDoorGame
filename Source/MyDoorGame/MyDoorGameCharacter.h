@@ -62,14 +62,14 @@ protected:
 private:
 	
 	// UFUNCTION(BlueprintImplementableEvent) Cant be BP Imppleamentaion 
-	UFUNCTION()
-	void Interact();
+	
 	UPROPERTY(EditAnywhere)
 	float InteractLineTraceLength = 300.f; 
 
 
 public:
-	
+	UFUNCTION(BlueprintCallable)
+	void InteractE();
 	
 
 	/** Returns CameraBoom subobject **/

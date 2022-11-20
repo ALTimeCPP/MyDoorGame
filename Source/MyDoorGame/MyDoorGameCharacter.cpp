@@ -64,7 +64,7 @@ void AMyDoorGameCharacter::SetupPlayerInputComponent(class UInputComponent* Play
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 	// For Press E 
-	PlayerInputComponent->BindAction("Interact", IE_Pressed, this, &AMyDoorGameCharacter::Interact);
+	PlayerInputComponent->BindAction("Interact", IE_Pressed, this, &AMyDoorGameCharacter::InteractE);
 
 	PlayerInputComponent->BindAxis("Move Forward / Backward", this, &AMyDoorGameCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("Move Right / Left", this, &AMyDoorGameCharacter::MoveRight);
@@ -134,7 +134,7 @@ void AMyDoorGameCharacter::MoveRight(float Value)
 	}
 }
 // For Pressing E to make the Door Open 
-void AMyDoorGameCharacter::Interact()
+void AMyDoorGameCharacter::InteractE()
 {
 	// Use this pointer only for First person Game
 	//if ( (CameraBoom != nullptr)  )
