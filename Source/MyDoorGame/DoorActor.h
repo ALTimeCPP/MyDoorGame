@@ -28,12 +28,12 @@ public:
 	virtual void Tick(float DeltaTime) override;
     
 	//UFUNCTION(BlueprintImplementableEvent)
-	UFUNCTION()
+	UFUNCTION(BlueprintCallable)
 	virtual void OnInteract(AMyDoorGameCharacter* User);
 	
 
 	//UFUNCTION(BlueprintNativeEvent)
-	UFUNCTION()
+	UFUNCTION(BlueprintCallable)
 	void OpenDoor(float Value); // Bind Function
 
 	//UPROPERTY(Transient)
