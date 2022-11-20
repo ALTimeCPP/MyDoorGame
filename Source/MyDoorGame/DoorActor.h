@@ -30,7 +30,7 @@ public:
 	//UFUNCTION(BlueprintImplementableEvent)
 	UFUNCTION()
 	virtual void OnInteract(AMyDoorGameCharacter* User);
-	//void OnInteract(AMyDoorGameCharacter* User);
+	
 
 	//UFUNCTION(BlueprintNativeEvent)
 	UFUNCTION()
