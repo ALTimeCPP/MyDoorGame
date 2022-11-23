@@ -144,12 +144,13 @@ void AMyDoorGameCharacter::InteractE()
 	FHitResult HitResult;
 	FVector Start = CameraBoom -> GetComponentLocation(); 
 	FVector End = Start + CameraBoom ->GetForwardVector() * InteractLineTraceLength; 
-	FVector Mid = Start - End + 20.f; // Need to adjust 
+	//FVector Mid = Start - End + 20.f; // Need to adjust 
+	// nOTE IF YO COMMENT THAT the door will open byitself and you need to add oninteractfunction in BP of the DoorActor
 	GetWorld()->LineTraceSingleByChannel(HitResult,Start,End,ECollisionChannel::ECC_Visibility);
 	// *** THis for Debug **//
-	DrawDebugLine(GetWorld(),Start,End,FColor::Red,false,2.f);
-	DrawDebugLine(GetWorld(),End, Mid,FColor::Red,false,2.f);
-	DrawDebugLine(GetWorld(),Start, Mid,FColor::Blue,false,2.f);
+	//DrawDebugLine(GetWorld(),Start,End,FColor::Red,false,2.f);
+	//DrawDebugLine(GetWorld(),End, Mid,FColor::Red,false,2.f);
+	//DrawDebugLine(GetWorld(),Start, Mid,FColor::Blue,false,2.f);
 	//**                  **// 
 	ADoorActor* Door = Cast<ADoorActor>(HitResult.GetActor());
 	if(Door)
