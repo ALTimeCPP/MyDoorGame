@@ -65,7 +65,7 @@ void ADoorActor:: OnInteract(AMyDoorGameCharacter* User)
 
 		}
 		bIsDoorClosed = !bIsDoorClosed; // Flip The Boolean 
-	
+		onINteractBluprintcall(User); 
 
 
 }

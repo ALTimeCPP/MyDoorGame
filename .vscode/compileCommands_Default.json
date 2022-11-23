@@ -60,6 +60,16 @@
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\Empty.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_Default\\MyDoorGame.211.rsp\"",
+		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\Empty.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_Default\\MyDoorGame.211.rsp\"",
+		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\Source\\MyDoorGame\\FloorSwitch.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\CG SPECTRUM\\Refrence\\Door\\MyDoorGame\\MyDoorGame\\.vscode\\compileCommands_Default\\MyDoorGame.211.rsp\"",
 		"directory": "D:\\Unreal Engine\\UE_5.0\\Engine\\Source"

@@ -28,7 +28,8 @@ public:
 	virtual void Tick(float DeltaTime) override;
 	UFUNCTION(BlueprintCallable)
 	virtual void OnInteract(AMyDoorGameCharacter* User);
-	
+	UFUNCTION(BlueprintImplementableEvent)
+	void onINteractBluprintcall(AMyDoorGameCharacter* User); 
 	
 
 
