@@ -47,6 +47,7 @@ void ADoorActor::Tick(float DeltaTime)
 }
 void ADoorActor:: OnInteract(AMyDoorGameCharacter* User)
 {
+	 
 	UE_LOG(LogTemp, Warning, TEXT("Press E"));
 
 		if(KeyNum !=0 &&  (User != nullptr && !User->Keys.Contains(KeyNum)))

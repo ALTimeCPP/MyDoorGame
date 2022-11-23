@@ -26,8 +26,11 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	
+	UFUNCTION(BlueprintCallable)
 	virtual void OnInteract(AMyDoorGameCharacter* User);
+	
+	
+
 
 	//UPROPERTY(Transient)
 	//TObjectPtr<AMyDoorGameCharacter> Character;
